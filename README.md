@@ -93,11 +93,11 @@ Check out my portfolio to see my work:
 
 <div align="center">
   <a href="https://github.com/VinitChoudhary-A">
-    <img src="https://github-readme-stats.vercel.app/api?username=VinitChoudhary-A&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=VinitChoudhary-A&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Vinit Choudhary's GitHub Stats">
   </a>
   <br>
   <a href="https://github.com/VinitChoudhary-A">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinitChoudhary-A&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinitChoudhary-A&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages by Vinit Choudhary">
   </a>
 </div>
 
